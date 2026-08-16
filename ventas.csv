@@ -1,5 +1,5 @@
 id,vendedor,producto,cantidad,total
-1,Juan,Computadora,1,15000
-2,Ana,Mouse,1,350
-3,Juan,Monitor,1,4200
+1,Juan,Computadora,5,15000
+2,Ana,Mouse,3,350
+3,Juan,Monitor,2,4200
 4,Luis,Teclado,1,600
